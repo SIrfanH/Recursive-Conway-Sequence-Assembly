@@ -7,4 +7,4 @@ In mathematical terms, the sequence a(n) of Newman-Conway numbers is defined by 
   <img src='https://user-images.githubusercontent.com/49107892/180621175-809d5480-758f-4003-9e6d-785b0de8218d.jpg' width='400'>
 </p>
 
-This assembly program recurseively computes first ten terms of the Conway Sequence.
+This assembly program recursively computes first ten terms of the Conway Sequence.
